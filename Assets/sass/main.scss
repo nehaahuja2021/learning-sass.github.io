@@ -1,0 +1,55 @@
+*{
+   margin: 5px;
+   font-family: 'Noto Sans JP', sans-serif;
+}
+.container
+{
+   display: flex;
+   margin-top: 5%;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.img
+{
+  padding:20px;
+  margin-right: 60px; 
+  
+}
+.text
+{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+}
+
+.headerdeco{
+   display: flex;
+   justify-content: space-around;
+   align-items: center;
+      color:green;
+      
+ }
+.text1
+{
+   display: flex;
+   flex-direction: column;
+}
+.text2
+{
+   display: flex;
+   flex-direction: column;
+}
+.text3
+{
+   display: flex;
+   flex-direction: column;
+}
+.text4
+{
+   display: flex;
+   flex-direction: column;
+   
+}
+
+
